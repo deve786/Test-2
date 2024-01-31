@@ -12,12 +12,15 @@
     
     
 }
+.navlink:hover{
+    opacity: 0.6;
+}
 .navbar{
     
     display: flex;
     justify-content: flex-end;
     flex-direction: row;
-    background-color: rgb(215, 192, 241);
+    background-color: rgb(3, 3, 3);
     flex-wrap: wrap;
     align-content: center;
     align-items: center;
